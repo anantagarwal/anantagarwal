@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anantagarwal
 - 👀 I’m interested in building cloud native applications using k8s
-- 🌱 Currently working on k8s, Java, Golang, React/Vue
+- 🌱 Currently working on k8s, Java, Golang, React
 - Passionate about clean code, simple design that works
 - 💞️ Looking to collaborate on anything related to web and backend using Java and golang
 
