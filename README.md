@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anantagarwal
-- 👀 I’m interested in building cloud native applications using k8s
-- 🌱 Currently working on k8s, Java, Golang, React
-- Passionate about clean code, simple design that works
-- 💞️ Looking to collaborate on anything related to web and backend using Java and golang
+- With over 18 years in the IT industry, I focus on building software with craftsmanship at its core; clean, maintainable, and thoughtfully designed.
+- My work emphasizes scalable systems, resilient architectures, and user-centric digital experiences.
+- I believe great software is not just about solving problems, but doing so with clarity, elegance, and purpose.
 
 <!---
 anantagarwal/anantagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
